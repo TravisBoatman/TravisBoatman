@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Travis Boatman!
 
-<!--
-**TravisBoatman/TravisBoatman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a forward-thinking Software Engineer currently working at **Relativity**, where I contribute to building scalable, innovative solutions in the eDiscovery tech space.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**:  
+  - .NET
+  - Python
+  - TypeScript / JavaScript
+- **Frontend Framework**:  
+  - Svelte
+- **Cloud Platform**:  
+  - Azure
+
+I enjoy exploring modern technologies and frameworks, crafting efficient systems, and continuously learning to improve my craft.
+
+## 🌱 What I'm Up To
+- Building and maintaining applications at Relativity.
+- Experimenting with new features in Svelte.
+- Delving deeper into cloud-native development and Azure services.
+
+## 📫 Connect with Me
+- **LinkedIn**: [Travis Boatman](https://www.linkedin.com/in/travis-boatman/)
