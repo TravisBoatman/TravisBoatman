@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Travis Boatman!
 
-Welcome to my GitHub profile! I'm a forward-thinking Software Engineer currently working at **Relativity**, where I contribute to building scalable, innovative solutions in the eDiscovery tech space.
+Welcome to my GitHub profile! I'm a software engineer currently working at **Relativity**, where I contribute to building scalable, innovative solutions in the eDiscovery tech space.
 
 ## 🛠️ Technologies I Work With
 
